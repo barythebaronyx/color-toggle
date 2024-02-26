@@ -10,10 +10,10 @@ https://apps.laux.wtf/sn-super-colors/ext.json
 
 ## Examples with existing themes
 
-![Screenshot 1](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen1.jpg "Screenshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen1.png "Screenshot 1")
 
-![Screenshot 2](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen2.jpg "Screenshot 2")
+![Screenshot 2](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen2.png "Screenshot 2")
 
-![Screenshot 3](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen3.jpg "Screenshot 3")
+![Screenshot 3](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen3.png "Screenshot 3")
 
-![Screenshot 4](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen4.jpg "Screenshot 4")
+![Screenshot 4](https://raw.githubusercontent.com/marcolaux/sn-super-colors/main/screen4.png "Screenshot 4")
