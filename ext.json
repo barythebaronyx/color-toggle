@@ -1,0 +1,14 @@
+{
+    "identifier": "krst.super-colors",
+    "name": "Super Colors",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist/dist.css",
+    "version": "0.1",
+    "description": "Theme agnostic toggle to colorize different elements of the Super Editor",
+    "url": "https://apps.laux.wtf/sn-super-colors/dist/dist.css",
+    "download_url": "https://apps.laux.wtf/sn-super-colors/sn-super-colors.zip",
+    "latest_url": "https://apps.laux.wtf/sn-super-colors/ext.json",
+    "marketing_url": "https://github.com/marcolaux/sn-super-colors",
+    "layerable": true
+}
